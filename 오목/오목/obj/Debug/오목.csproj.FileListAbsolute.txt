@@ -1,0 +1,10 @@
+C:\Users\rodit\OneDrive\바탕 화면\오목\오목\bin\Debug\오목.exe.config
+C:\Users\rodit\OneDrive\바탕 화면\오목\오목\bin\Debug\오목.exe
+C:\Users\rodit\OneDrive\바탕 화면\오목\오목\bin\Debug\오목.pdb
+C:\Users\rodit\OneDrive\바탕 화면\오목\오목\obj\Debug\오목.csprojAssemblyReference.cache
+C:\Users\rodit\OneDrive\바탕 화면\오목\오목\obj\Debug\오목.Form1.resources
+C:\Users\rodit\OneDrive\바탕 화면\오목\오목\obj\Debug\오목.Properties.Resources.resources
+C:\Users\rodit\OneDrive\바탕 화면\오목\오목\obj\Debug\오목.csproj.GenerateResource.cache
+C:\Users\rodit\OneDrive\바탕 화면\오목\오목\obj\Debug\오목.csproj.CoreCompileInputs.cache
+C:\Users\rodit\OneDrive\바탕 화면\오목\오목\obj\Debug\오목.exe
+C:\Users\rodit\OneDrive\바탕 화면\오목\오목\obj\Debug\오목.pdb
